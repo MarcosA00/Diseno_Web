@@ -250,3 +250,34 @@ extensión .html
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
 secciones que se muestran en la imagen de arriba.
+
+
+         <doctype! html>
+
+            <head>
+               <title>Titulo de la pagina</title>
+            </head>
+
+            <body>
+               <header>
+                  <h1>ENCABEZADO NIVEL 1</h1>
+
+                  <nav>
+                <a href="1">Enlace 1</a>
+                <a href="2">Enlace 2</a>
+                <a href="3">Enlace 3</a>
+                <a href="4">Enlace 4</a>
+                   </nav>
+               </header>
+
+
+               <section>
+             <article>
+                <h2>Encabezado nivel 2</h2>
+                <p>Aquí va texto del primer<b>párrafo</b></p>
+                <p>Aqí va texto del segundo párrafo</p>
+             </article>
+               </section>
+
+               <aside>
+                  <h3>
