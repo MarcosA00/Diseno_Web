@@ -184,60 +184,110 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           
           
           INGRESA AQUI EL CSS
+	
+	*{
+	   padding: 0%;
+	   margin: 0%;
+	}
+
+	body{
+	   background-color: white;
+	   font-family: 'Montserrat', sans-serif;
+	   font-family: 'Radio Canada', sans-serif;
+	   font-family: 'Roboto', sans-serif;
+	}
+
+	header{
+	   background-color: white;
+	}
+
+	nav{
+	   align-items: center;
+	   justify-content: space-between
+	   display: flex;
+	   margin: 2em;
+	   margin-left: 5em;
+	}
+
+	hr{
+	   margin-left: -5em;
+	   margin-right: -2em;
+	   margin-top: 2em;
+	   margin-bottom: 2em;
+	}
+
+	header ul{
+	   align-items: center;
+	   justify-content: space-between;
+	   display: flex;
+	   margin-left: 77em;
+	   margin-right: 3em;
+	}
+
+	header li{
+	   color: green;
+	   padding: 0%;
+	   padding-left: 2em;
+	   font-size: 15pt;
+	}
+
+	a{
+	   text-decoration: none;
+	   list-style: none;
+	   font-weight: bold;
+	}
+
+	main{
+	   padding: 6%;
+	   background: url("https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg");
+	   background-repeat: no-repeat;
+	   background-size: cover;
+	}
+
+	div{
+	   font-size: 50pt;
+	   color: white;
+	   margin-top: -.7em;
+	   margin-left: -.7em;
+	}
+
+	article div1{
+	   text-align: center;
+	   color: white;
+	}
+
+	article div2{
+	   text-align: center;
+	   margin-left: 2.3em;
+	}
+
+	article div3{
+	   margin-left: 6.1em;
+	}
+
+	article div4{
+	   margin-left: 6.1em;
+	}
+
+	span{
+	   font-weight: bold;
+	   font-size: 70pt;
+	}
+
+	footer{
+	   padding: 3%;
+	   text-align: center;
+	   fond-size:1em;
+	}
+
+	footer h2{
+		color: #926C15;
+	}
+
+	footer p{
+		color:gray;
+	}
+	
           
-             font-weight: bold;
-}
 
-main{
-   padding: 6%;
-   background: url("https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-}
-
-div{
-   font-size: 50pt;
-   color: white;
-   margin-top: -.7em;
-   margin-left: -.7em;
-}
-
-article div1{
-   text-align: center;
-   color: white;
-}
-
-article div2{
-   text-align: center;
-   margin-left: 2.3em;
-}
-
-article div3{
-   margin-left: 6.1em;
-}
-
-article div4{
-   margin-left: 6.1em;
-}
-
-span{
-   font-weight: bold;
-   font-size: 70pt;
-}
-
-footer{
-   padding: 3%;
-   text-align: center;
-   fond-size:1em;
-}
-
-footer h2{
-	color: #926C15;
-}
-
-footer p{
-	color:gray;
-}
-          
-          
  Ingresa el link a tu página del proyecto final
