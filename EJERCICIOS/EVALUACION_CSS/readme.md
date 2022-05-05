@@ -117,7 +117,7 @@ El borde derecho = 1 píxel
 Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica de la
 maquetación en código html y css, valor 36)
 
-![image](https://user-images.githubusercontent.com/91554777/166742177-b3cc2bfc-7768-42e4-b4f0-dcc2a1473935.png)
+![image](https://user-images.githubusercontent.com/85717673/166958630-ee2000f1-e0bf-41dd-b0f9-3afd7febc175.png)
 
 ● Este ejercicio lo deberás realizar con las etiquetas de HTML5, haciendo uso de los elementos semánticos de HTML5.
 
