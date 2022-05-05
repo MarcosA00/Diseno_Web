@@ -185,6 +185,59 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           
           INGRESA AQUI EL CSS
           
+             font-weight: bold;
+}
+
+main{
+   padding: 6%;
+   background: url("https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/assets/hero.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+div{
+   font-size: 50pt;
+   color: white;
+   margin-top: -.7em;
+   margin-left: -.7em;
+}
+
+article div1{
+   text-align: center;
+   color: white;
+}
+
+article div2{
+   text-align: center;
+   margin-left: 2.3em;
+}
+
+article div3{
+   margin-left: 6.1em;
+}
+
+article div4{
+   margin-left: 6.1em;
+}
+
+span{
+   font-weight: bold;
+   font-size: 70pt;
+}
+
+footer{
+   padding: 3%;
+   text-align: center;
+   fond-size:1em;
+}
+
+footer h2{
+	color: #926C15;
+}
+
+footer p{
+	color:gray;
+}
           
           
  Ingresa el link a tu página del proyecto final
