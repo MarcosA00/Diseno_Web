@@ -144,43 +144,44 @@ https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/dist/ass
           INGRESA AQUI EL CÓDIGO HTML
           
           
-          <!doctype html>
-<head>
-   <link rel="stylesheet" href="C:\Users\PILARES.PILARES2\Documents\Ejercicios Marcos\Evaluación\styles.css">
-   <title>Evaluación</title>
-</head>
+        <!doctype html>
+	<head>
+	   <link rel="stylesheet" href="C:\Users\PILARES.PILARES2\Documents\Ejercicios Marcos\Evaluación\styles.css">
+	   <title>Evaluación</title>
+	</head>
 
-<body>
-   <header>
-      <nav>
-         <a href=""><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg"></a>
-         <hr>
-         <ul>
-            <a href=""><li>Residentes</li></a>
-            <a href=""><li>Negocios</li></a>
-            <a href=""><li>Visitantes</li></a>
-            <a href=""><li>Gobierno</li></a>
-         </ul>
-      </nav>
-   </header>
+	<body>
+	   <header>
+	      <nav>
+		 <a href=""><img src="https://escuelasdecodigo.cdmx.gob.mx/wp-content/themes/escuelasdecodigo/assets/images/logo.svg"></a>
+		 <hr>
+		 <ul>
+		    <a href=""><li>Residentes</li></a>
+		    <a href=""><li>Negocios</li></a>
+		    <a href=""><li>Visitantes</li></a>
+		    <a href=""><li>Gobierno</li></a>
+		 </ul>
+	      </nav>
+	   </header>
 
-   <main>
-      <article>
-         <div>
-            <div1><span>></span>APRENDE A PROGRAMAR<br></div1>
-            <div2>EN LAS <span>ESCUELAS</span><br></div2>
-            <div3><span>DE CODIGO</span><br></div3>
-            <div4>DE LA CDMX</div4>
-         </div>
-      </article>
-   </main>
+	   <main>
+	      <article>
+		 <div>
+		    <div1><span>></span>APRENDE A PROGRAMAR<br></div1>
+		    <div2>EN LAS <span>ESCUELAS</span><br></div2>
+		    <div3><span>DE CODIGO</span><br></div3>
+		    <div4>DE LA CDMX</div4>
+		 </div>
+	      </article>
+	   </main>
 
-   <footer>
-      <h2>¿Quien se puede inscribir?</h2><br>
-      Cualquier persona que quiera aprender a programar codigo y cuente con 4-8 horas disponibles a la semana.<br>
-      <p>*Menores de edad deberan entrar a las instalaciones acompañados de un  adulto.</p><br>
-   </footer>
-          
+	   <footer>
+	      <h2>¿Quien se puede inscribir?</h2><br>
+	      Cualquier persona que quiera aprender a programar codigo y cuente con 4-8 horas disponibles a la semana.<br>
+	      <p>*Menores de edad deberan entrar a las instalaciones acompañados de un  adulto.</p><br>
+	   </footer>
+	<body>
+	<html>
           
           
           INGRESA AQUI EL CSS
